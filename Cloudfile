@@ -1,5 +1,8 @@
 Test New File from cloud
 Test 
 Test GIT PULL
+<<<<<<< HEAD
 INsert new changes from Local
 
+=======
+>>>>>>> 5e80763a777f859a3e648f6381c1c88ff79d4c38
